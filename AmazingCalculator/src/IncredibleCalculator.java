@@ -68,7 +68,6 @@ public class IncredibleCalculator {
                 for(int i=0;i<10;i++){
                     System.out.println(random);
                 }
-
                 break;
             default:
                 System.out.println("Error, pruebe de nuevo.");
